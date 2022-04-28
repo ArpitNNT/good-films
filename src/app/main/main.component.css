@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+h2{
+    color: rgba(255,255,255,.55);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5rem;
+}
+
+.text-white{
+    color: white;
+}
+
+.rating-section{
+    background-color: white;
+    width: 23rem;
+}
+
+.reviews{
+    color: rgba(255,255,255,.55);
+}
